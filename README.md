@@ -1,7 +1,6 @@
-### Olá! Eu sou Kwirto
+### Olá, sou Lazim Junior!
 
-- 🌱 Estudando: Html, CSS e JavaScript
-- 😄 Pronomes: Ele/Dele
+- 🌱 Futuro Data Science
 
 <div align="center">
   <a href="https://github.com/Kwirto">
