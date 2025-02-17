@@ -11,9 +11,7 @@
 
 ###
 
-<img align="center" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611gb3g3y9xc9lxy1kf1omqgpxysf65jen034xqbfx4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -26,6 +24,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
+
+###
+<img align="center" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611gb3g3y9xc9lxy1kf1omqgpxysf65jen034xqbfx4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 ###
 
