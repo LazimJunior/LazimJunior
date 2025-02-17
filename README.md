@@ -37,10 +37,10 @@
   </a>
 </div>
 
-<div alingn="center">
+<h2 align="center">
 <img align="center" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611gb3g3y9xc9lxy1kf1omqgpxysf65jen034xqbfx4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</div>
-###
+</h2>
+
 
 <br clear="both">
 
