@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World+I'm+Lazim!"))](https://git.io/typing-svg)
+
 <h2 align="center"></h2>
 
 ###
@@ -42,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lezin/Lezin/output/snake.svg" alt="Snake animation" align="center" />
 
 ###
